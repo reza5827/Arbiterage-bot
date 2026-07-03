@@ -6,7 +6,6 @@ Cross-DEX arbitrage bot.
 - MEV protection
 - Flash loan integration
 - Real-time execution
-
 ## License
 
 MIT
